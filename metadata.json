@@ -1,0 +1,15 @@
+{
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0",
+  "author": "Douglas McClusky",
+  "dependencies": [
+  	
+  ],
+  "license": "Apache License, Version 2.0",
+  "name": "oeudtinsanmie-vcldocker",
+  "source": "https://github.com/oeudtinsanmie/oeudtinsanmie-vcldocker.git",
+  "project_page": "https://github.com/oeudtinsanmie/oeudtinsanmie-vcldocker",
+  "operatingsystem_support": [],
+  "requirements": []
+}
